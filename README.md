@@ -43,6 +43,9 @@ Conclusion
 The Bank Loan Analysis Dashboard successfully transforms raw loan data into meaningful business insights. 
 Through data cleaning, DAX calculations, interactive visualizations, bookmarks, and navigation features, the solution provides a comprehensive view of loan performance and borrower trends, supporting informed business decision-making.
 
+<img width="859" height="482" alt="Screenshot 2026-06-05 100227" src="https://github.com/user-attachments/assets/2ebdb6f4-0948-4feb-ba4f-438fc2d40667" />
+
+
 
 
 
